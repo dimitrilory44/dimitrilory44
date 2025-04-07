@@ -12,7 +12,6 @@
 💡 J’aime :
 - Écrire du code propre et documenté
 - Concevoir des APIs claires
-- Automatiser des trucs avec GitHub Actions
 
 ---
 
