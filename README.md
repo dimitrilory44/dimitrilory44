@@ -20,7 +20,7 @@
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | [🎬 FilmApp](https://github.com/dimitrilory44/FilmApp) | Application de films avec API externe (TMDb) pour rechercher et afficher des films. | Vue.js, Axios, API REST |
-| [🚀 Projet Portfolio](https://github.com/dimitrilory44/ProjetPortfolio) | Mon portfolio personnel pour présenter mes projets et compétences. | Vue.js |
+| [🧑‍🤝‍🧑 SocialProject](https://github.com/dimitrilory44/SocialProject) | Application de type réseau social avec publications, interactions et gestion de profil. | Angular, Express.js, Firebase |
 
 (Certains sont en cours de refexion)
 
