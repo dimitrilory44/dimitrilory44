@@ -15,6 +15,17 @@
 
 ---
 
+📁 **Mes principals projets GitHub**
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [🚀 Projet Portfolio](https://github.com/dimitrilory44/ProjetPortfolio) | Mon portfolio personnel pour présenter mes projets et compétences. | Vue.js |
+| [🎬 FilmApp](https://github.com/dimitrilory44/FilmApp) | Application de films avec API externe (TMDb) pour rechercher et afficher des films. | Vue.js, Axios, API REST |
+
+(Certains sont en cours de refexion)
+
+---
+
 📫 Tu peux me contacter ici :
 - LinkedIn : [linkedin.com/in/dimitri-lory](https://www.linkedin.com/in/dimitri-lory/)
 - Email : `lorydim44@gmail.com`
