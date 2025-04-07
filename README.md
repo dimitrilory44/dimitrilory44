@@ -15,7 +15,7 @@
 
 ---
 
-📁 **Mes principals projets GitHub**
+📁 **Mes principaux projets GitHub**
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
