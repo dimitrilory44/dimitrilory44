@@ -22,7 +22,7 @@
 | [🎬 FilmApp](https://github.com/dimitrilory44/FilmApp) | Application de films avec API externe (TMDb) pour rechercher et afficher des films. | Vue.js, Axios, API REST |
 | [🧑‍🤝‍🧑 SocialProject](https://github.com/dimitrilory44/SocialProject) | Application de type réseau social avec publications, interactions et gestion de profil. | Angular, Express.js, Firebase |
 
-(Certains sont en cours de reflexion)
+Projet en cours : [TaskManager](https://github.com/dimitrilory44/taskManager)
 
 ---
 
