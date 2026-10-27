@@ -34,38 +34,35 @@ Je conçois et fais évoluer des **applications métier en architecture microser
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/dimitrilory44/streaming-app"><img src="https://dimitrilory44.github.io/img/work.jpg" alt="Capture de Streaming Explorer" width="100%"></a>
-    </td>
-    <td width="50%">
-      <h3>🎬 <a href="https://github.com/dimitrilory44/streaming-app">Streaming Explorer</a></h3>
-      <p>Films et séries filtrés selon vos plateformes de streaming : filtres, tris, recherche et scroll infini.</p>
-      <p><b>À venir :</b> backend Spring Boot et recherche en langage naturel par IA.</p>
-      <p>
-        <img alt="Angular 21" src="https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white">
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-        <img alt="API TMDB" src="https://img.shields.io/badge/API_TMDB-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white">
-      </p>
+    <th align="left">Projet</th>
+    <th align="left">En bref</th>
+    <th align="left">Stack</th>
+  </tr>
+  <tr>
+    <td>🎬 <b><a href="https://github.com/dimitrilory44/streaming-app">Streaming Explorer</a></b></td>
+    <td>Films et séries filtrés selon vos plateformes de streaming. <b>À venir :</b> backend Spring Boot et recherche en langage naturel par IA.</td>
+    <td>
+      <img alt="Angular 21" src="https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white">
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      <img alt="API TMDB" src="https://img.shields.io/badge/API_TMDB-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white">
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>✅ <a href="https://github.com/dimitrilory44/taskManager">Task Manager</a></h3>
-      <p>API REST de gestion de projets et de tâches, sécurisée par JWT avec gestion des rôles, documentée en OpenAPI et testée avec JUnit et Mockito.</p>
-      <p>
-        <img alt="Java 21" src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-        <img alt="Spring Boot 3.4" src="https://img.shields.io/badge/Spring_Boot_3.4-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-        <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
-      </p>
+    <td>✅ <b><a href="https://github.com/dimitrilory44/taskManager">Task Manager</a></b></td>
+    <td>API REST de gestion de projets et de tâches, sécurisée par JWT avec gestion des rôles, documentée en OpenAPI.</td>
+    <td>
+      <img alt="Java 21" src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+      <img alt="Spring Boot 3.4" src="https://img.shields.io/badge/Spring_Boot_3.4-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+      <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
     </td>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/dimitrilory44/dimitrilory44.github.io">Portfolio</a></h3>
-      <p>Un site, deux lectures : une version pour les recruteurs et un <a href="https://dimitrilory44.github.io/#dev">mode développeur</a> où mon parcours se lit comme une API Spring Boot.</p>
-      <p>
-        <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
-        <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white">
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-      </p>
+  </tr>
+  <tr>
+    <td>🌐 <b><a href="https://github.com/dimitrilory44/dimitrilory44.github.io">Portfolio</a></b></td>
+    <td>Un site, deux lectures : une version pour les recruteurs et un <a href="https://dimitrilory44.github.io/#dev">mode développeur</a> où mon parcours se lit comme une API.</td>
+    <td>
+      <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+      <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
     </td>
   </tr>
 </table>
